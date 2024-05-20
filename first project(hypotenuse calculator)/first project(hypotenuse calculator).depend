@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716086037 source:c:\users\oye\desktop\c++ tuto\first project(hypotenuse calculator)\main.cpp
+	<iostream>
+	<cmath>
+
